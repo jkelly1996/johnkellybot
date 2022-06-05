@@ -1,0 +1,7 @@
+{
+    "TOKEN":"Your Bot Token",
+    "clientId":"Bot Client ID",
+    "guildId":"Guild ID for slash commands",
+    "statusType":"PLAYING",
+    "status":"Hello"
+}
